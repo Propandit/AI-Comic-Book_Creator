@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1240" viewBox="0 0 1600 1240" role="img" aria-labelledby="title desc">
+<title id="title">Story of Change — comic generation pipeline</title>
+<desc id="desc">Capture a photo, collect a story, validate six panels, generate reference-guided artwork, place lettering, save the final page, then offer mobile download, printing and explicitly approved event displays.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0 L9 4.5 L0 9" fill="none" stroke="#8794a7" stroke-width="1.6"/></marker></defs>
+<rect width="1600" height="1240" rx="28" fill="#f6f8fc"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="60" y="48" width="74" height="6" rx="3" fill="#4285f4"/><rect x="142" y="48" width="28" height="6" rx="3" fill="#ea4335"/><rect x="178" y="48" width="28" height="6" rx="3" fill="#fbbc04"/><rect x="214" y="48" width="28" height="6" rx="3" fill="#34a853"/>
+<text x="60" y="105" font-size="44" font-weight="700" fill="#182230">Your story. Six panels. One personal takeaway.</text>
+<text x="60" y="147" font-size="24" fill="#5c6a7e">STORY OF CHANGE  /  GOOGLE CLOUD EVENT EXPERIENCE</text><rect x="60" y="197" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="60" y="197" width="450" height="8" rx="4" fill="#1967d2"/>
+ <rect x="84" y="225" width="48" height="42" rx="12" fill="#e8f0fe"/>
+ <text x="108" y="254" text-anchor="middle" font-size="22" font-weight="700" fill="#1967d2">01</text>
+ <text x="148" y="254" font-size="28" font-weight="700" fill="#182230">Capture a portrait</text><text x="86" y="308" font-size="21" fill="#425168">Camera + 3-second countdown</text><text x="86" y="342" font-size="21" fill="#425168">Photo and optional character name</text><text x="86" y="376" font-size="21" fill="#425168">Original stays in active job memory</text><rect x="575" y="197" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="575" y="197" width="450" height="8" rx="4" fill="#b45309"/>
+ <rect x="599" y="225" width="48" height="42" rx="12" fill="#fef3d1"/>
+ <text x="623" y="254" text-anchor="middle" font-size="22" font-weight="700" fill="#b45309">02</text>
+ <text x="663" y="254" font-size="28" font-weight="700" fill="#182230">Tell your story</text><text x="601" y="308" font-size="21" fill="#425168">Choose a business field</text><text x="601" y="342" font-size="21" fill="#425168">20+ words, or voice up to 60 seconds</text><text x="601" y="376" font-size="21" fill="#425168">Google Speech-to-Text for voice</text><rect x="1090" y="197" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="1090" y="197" width="450" height="8" rx="4" fill="#137333"/>
+ <rect x="1114" y="225" width="48" height="42" rx="12" fill="#e6f4ea"/>
+ <text x="1138" y="254" text-anchor="middle" font-size="22" font-weight="700" fill="#137333">03</text>
+ <text x="1178" y="254" font-size="28" font-weight="700" fill="#182230">Plan + validate</text><text x="1116" y="308" font-size="21" fill="#425168">Gemini through Replicate</text><text x="1116" y="342" font-size="21" fill="#425168">Character bible and exactly six panels</text><text x="1116" y="376" font-size="21" fill="#425168">Image prompts, captions + dialogue</text><path d="M515 315 H559" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><path d="M1030 315 H1074" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><path d="M1315 440 V488" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><rect x="1090" y="505" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="1090" y="505" width="450" height="8" rx="4" fill="#1967d2"/>
+ <rect x="1114" y="533" width="48" height="42" rx="12" fill="#e8f0fe"/>
+ <text x="1138" y="562" text-anchor="middle" font-size="22" font-weight="700" fill="#1967d2">04</text>
+ <text x="1178" y="562" font-size="28" font-weight="700" fill="#182230">Create the artwork</text><text x="1116" y="616" font-size="21" fill="#425168">Nano Banana through Replicate</text><text x="1116" y="650" font-size="21" fill="#425168">Panel 1 first; then panels 2–6 together</text><text x="1116" y="684" font-size="21" fill="#425168">Photo, anchor panel + style reference</text><rect x="575" y="505" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="575" y="505" width="450" height="8" rx="4" fill="#8430b0"/>
+ <rect x="599" y="533" width="48" height="42" rx="12" fill="#f3e8fd"/>
+ <text x="623" y="562" text-anchor="middle" font-size="22" font-weight="700" fill="#8430b0">05</text>
+ <text x="663" y="562" font-size="28" font-weight="700" fill="#182230">Place the lettering</text><text x="601" y="616" font-size="21" fill="#425168">Locate heads in generated artwork</text><text x="601" y="650" font-size="21" fill="#425168">Fit text around protected face regions</text><text x="601" y="684" font-size="21" fill="#425168">Shared compositor: preview + exports</text><rect x="60" y="505" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="60" y="505" width="450" height="8" rx="4" fill="#137333"/>
+ <rect x="84" y="533" width="48" height="42" rx="12" fill="#e6f4ea"/>
+ <text x="108" y="562" text-anchor="middle" font-size="22" font-weight="700" fill="#137333">06</text>
+ <text x="148" y="562" font-size="28" font-weight="700" fill="#182230">Save the final comic</text><text x="86" y="616" font-size="21" fill="#425168">MongoDB: story, panels + display queue</text><text x="86" y="650" font-size="21" fill="#425168">Private GCS: final 1600 × 3200 PNG</text><text x="86" y="684" font-size="21" fill="#425168">Timestamp + name + ID + version</text><path d="M1084 623 H1040" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><path d="M569 623 H525" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><text x="800" y="800" text-anchor="middle" font-size="21" font-weight="600" fill="#5c6a7e">THE SAVED PAGE BECOMES A VISITOR TAKEAWAY</text><path d="M285 748 V826 H1315" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round"/><path d="M285 826 V854" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><path d="M800 826 V854" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><path d="M1315 826 V854" fill="none" stroke="#8794a7" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/><rect x="60" y="870" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="60" y="870" width="450" height="8" rx="4" fill="#1967d2"/>
+ <rect x="84" y="898" width="48" height="42" rx="12" fill="#e8f0fe"/>
+ <text x="108" y="927" text-anchor="middle" font-size="22" font-weight="700" fill="#1967d2">A</text>
+ <text x="148" y="927" font-size="28" font-weight="700" fill="#182230">Mobile QR page</text><text x="86" y="981" font-size="21" fill="#425168">Scan → comic + Download button</text><text x="86" y="1015" font-size="21" fill="#425168">Tap → current signed GCS link</text><text x="86" y="1049" font-size="21" fill="#425168">Download the finished PNG</text><rect x="575" y="870" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="575" y="870" width="450" height="8" rx="4" fill="#b45309"/>
+ <rect x="599" y="898" width="48" height="42" rx="12" fill="#fef3d1"/>
+ <text x="623" y="927" text-anchor="middle" font-size="22" font-weight="700" fill="#b45309">B</text>
+ <text x="663" y="927" font-size="28" font-weight="700" fill="#182230">Print a keepsake</text><text x="601" y="981" font-size="21" fill="#425168">Native browser print dialog</text><text x="601" y="1015" font-size="21" fill="#425168">The complete comic on one A4 sheet</text><text x="601" y="1049" font-size="21" fill="#425168">No extra page or browser tab</text><rect x="1090" y="870" width="450" height="236" rx="22" fill="white" stroke="#d9e2ef" stroke-width="2"/>
+ <rect x="1090" y="870" width="450" height="8" rx="4" fill="#137333"/>
+ <rect x="1114" y="898" width="48" height="42" rx="12" fill="#e6f4ea"/>
+ <text x="1138" y="927" text-anchor="middle" font-size="22" font-weight="700" fill="#137333">C</text>
+ <text x="1178" y="927" font-size="28" font-weight="700" fill="#182230">Approve for displays</text><text x="1116" y="981" font-size="21" fill="#425168">Explicit visitor approval required</text><text x="1116" y="1015" font-size="21" fill="#425168">Displays 1–4 share the server queue</text><text x="1116" y="1049" font-size="21" fill="#425168">2-second polls · 30-second rotations</text><text x="800" y="1162" text-anchor="middle" font-size="22" font-weight="600" fill="#182230">No login · English dialogue · One approved comic style · Six automatic layouts</text>
+<text x="800" y="1202" text-anchor="middle" font-size="19" fill="#64748b">Reference-guided illustration and model-based face placement still benefit from human review.</text>
+</g></svg>
